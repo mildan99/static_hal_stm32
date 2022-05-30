@@ -37,17 +37,14 @@ add_compile_definitions( ${TARGET}  STM32F411xE
 # TODO: Add any additional include directories here
 include_directories(
     "include"
-    "libs/inc"
-    "libs/CMSIS/Include"
-    "libs/CMSIS/Device/ST/STM32F4xx/Include"
-    "libs/CMSIS/DSP/Include"
-    "libs/FreeRTOS/include"
-    "libs/superlib/inc"
+    "libs/include"
+    "libs/Device/ST/STM32F4xx/Include"
+    # "libs/FreeRTOS/include"
+    "libs/superlib/include"
     "scripts"
     "C:/local/libs/eigen-master"
     "C:/Users/daniil/Documents/code/stm/workspace/lib/etl-17.7.0/include"
 
-    
 )
 
 # TODO: Add your project source files or their containing folders here
@@ -58,7 +55,7 @@ file(GLOB_RECURSE
     "libs/src/*.cpp"
     "libs/superlib/src/*.c"
     "libs/superlib/src/*.cpp"
-    "libs/FreeRTOS/*.c"
+    # "libs/FreeRTOS/*.c"
 )
 file(GLOB_RECURSE 
 	 MAIN_SOURCE
@@ -68,7 +65,8 @@ file(GLOB_RECURSE
     "scripts/*.s"
 )
 
-set(LINKER_LIBS "${CMAKE_SOURCE_DIR}/libs/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a")
+# set(LINKER_LIBS "${CMAKE_SOURCE_DIR}/libs/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a")
+set(LINKER_LIBS "")
 
 # TODO: Add your project linker scripts here (if you have any)
 # Add all linker scripts to the linker command
@@ -93,6 +91,16 @@ set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS}${LINKER_COMMON}" CACHE INT
 message("CMAKE_EXE_LINKER_FLAGS = " ${CMAKE_EXE_LINKER_FLAGS})
 #
 #
+
+
+
+
+set(FREERTOS_PORT GCC_ARM_CM4F CACHE STRING "")
+add_subdirectory(libs)
+
+
+
+
 if (TYPE STREQUAL "STATIC_LIBRARY")
     set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
     #
@@ -102,7 +110,7 @@ if (TYPE STREQUAL "STATIC_LIBRARY")
 else()
     # 
     add_executable(build.elf ${MAIN_SOURCE})
-    target_link_libraries(build.elf ${LINKER_LIBS})
+    target_link_libraries(build.elf PUBLIC ${LINKER_LIBS} cmsis-core freertos_kernel etl::etl)
   #  configure_file(build/compile_commands.json ../compile_commands.json COPYONLY)
 
     #message(${CMAKE_SOURCE_DIR})

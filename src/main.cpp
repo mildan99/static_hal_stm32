@@ -1,6 +1,5 @@
 
 #include "stm32f4xx.h"
-#include "arm_math.h"
 
 #include "mcu_base.hpp"
 #include "supergpio.hpp"
@@ -110,9 +109,7 @@ void set_eee() {
 
 int main() {
 
-   float32_t in1[] = {1, 2.5, 3}, in2[] = {4, 5.5, 6}, out[3];
-   arm_dot_prod_f32(in1, in2, 3, out);
-
+ 
   TaskHandle_t xHandle = NULL;
   xTaskCreate(task_blink, "blinker", 64, 0, 0, &xHandle);
   xTaskCreate(uart_task, "uart", 128, 0, 0, 0);
