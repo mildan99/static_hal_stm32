@@ -42,12 +42,12 @@ message("Build mode : " ${CMAKE_BUILD_TYPE})
 if (CMAKE_BUILD_TYPE STREQUAL "Release")
     message("Setting up Release flags.")
     set(OPTIMISATION	    "-O2")
-    set(ADDITIONAL_FLAGS    "-flto -s  -Wl,--strip-all ")
+    set(ADDITIONAL_FLAGS    "-flto -ffat-lto-objects -s  -Wl,--strip-all ")
 
 elseif (CMAKE_BUILD_TYPE STREQUAL "MinSizeRel")
     message("Setting up MinSizeRel flags.")
     set(OPTIMISATION	    "-Os")
-    set(ADDITIONAL_FLAGS    " -s -Wl,--strip-all ")
+    set(ADDITIONAL_FLAGS    "-flto -fuse-linker-plugin -ffat-lto-objects -s -Wl,--strip-all ")
 
 elseif (CMAKE_BUILD_TYPE STREQUAL "Debug")
     message("Setting up Debug flags.")
@@ -85,16 +85,8 @@ set(CMAKE_C_FLAGS_RELEASE "")
 # You may have a linker issue. If that occurs change nano.specs to nosys.specs
 set(CMAKE_EXE_LINKER_FLAGS  "${COMMON_FLAGS} -Wl,-Map,\"build.map\",--wrap=malloc,--wrap=free,--gc-sections --specs=nano.specs -nostartfiles  " CACHE INTERNAL "exe link flags")
 
-# #
-# message(${CMAKE_C_FLAGS})
-# message(${CMAKE_CXX_FLAGS})
-# message(${CMAKE_EXE_LINKER_FLAGS})
 
-# 
-message("CMAKE_C_FLAGS = "          ${CMAKE_C_FLAGS})
-message("CMAKE_CXX_FLAGS = "        ${CMAKE_CXX_FLAGS})
-message("CMAKE_EXE_LINKER_FLAGS = " ${CMAKE_EXE_LINKER_FLAGS})
-#
+
 # 
 set(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM BOTH)
 set(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY ONLY)

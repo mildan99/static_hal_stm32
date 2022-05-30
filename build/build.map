@@ -101,6 +101,14 @@ Discarded input sections
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .text          0x00000000        0x0 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .data          0x00000000        0x0 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
@@ -114,18 +122,18 @@ Discarded input sections
                 0x00000000       0x28 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_rnglists
                 0x00000000       0x19 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_macro   0x00000000      0x168 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000      0x1d2 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x1e CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x58 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_macro   0x00000000       0x5c CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x35 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x34 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
@@ -139,27 +147,26 @@ Discarded input sections
  .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000      0x182 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000      0x364 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x29 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0xde CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_macro   0x00000000       0xb2 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_line    0x00000000      0x4dc CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .debug_str     0x00000000     0x8b2c CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0xd5 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_macro   0x00000000       0x3d CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_line    0x00000000      0x550 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
+ .debug_str     0x00000000     0x95a4 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .comment       0x00000000       0x58 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .debug_frame   0x00000000       0x38 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
  .ARM.attributes
                 0x00000000       0x34 CMakeFiles/build.elf.dir/libs/src/_cxx.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
@@ -220,7 +227,7 @@ Discarded input sections
                 0x00000000       0x44 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .text.__run_fini_array
                 0x00000000       0x24 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x00000000      0xaba CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000      0xab4 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
@@ -233,6 +240,14 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .debug_macro   0x00000000       0x34 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0xd5 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00000000       0x3d CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
@@ -298,10 +313,11 @@ Discarded input sections
                 0x00000000        0x4 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .bss.__env     0x00000000        0x4 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .data.environ  0x00000000        0x4 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x00000000      0xaba CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00000000      0xab4 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .debug_macro   0x00000000       0x58 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .debug_macro   0x00000000       0x1e CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .debug_macro   0x00000000       0x35 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .debug_macro   0x00000000       0x34 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
  .debug_macro   0x00000000      0x174 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
@@ -380,16 +396,16 @@ Discarded input sections
                 0x00000000       0x54 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .bss._ZZ30vApplicationGetTimerTaskMemoryE16uxTimerTaskStack
                 0x00000000      0x100 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x58 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x1e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0x5c CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x35 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x34 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
@@ -400,17 +416,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x182 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x364 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x1df CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0xfb CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000      0x11f CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000     0xb937 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00000000       0x43 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000      0x15a CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0xe4 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
@@ -440,7 +448,7 @@ Discarded input sections
                 0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .rodata.APBPrescTable
                 0x00000000        0x8 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
- .debug_macro   0x00000000      0xaba CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+ .debug_macro   0x00000000      0xab4 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
@@ -452,7 +460,6 @@ Discarded input sections
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000       0xfb CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
- .debug_macro   0x00000000     0x1011 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000      0x11f CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000     0xb937 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
  .debug_macro   0x00000000       0x43 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
@@ -476,9 +483,14 @@ Discarded input sections
  .text.xfgets   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
  .text.xatoi    0x00000000       0xc4 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
  .bss.xfunc_in  0x00000000        0x4 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_macro   0x00000000      0xaba CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_macro   0x00000000      0xab4 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
@@ -527,11 +539,12 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .data          0x00000000        0x0 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
@@ -556,7 +569,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
@@ -601,12 +614,12 @@ Discarded input sections
                 0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .text._ZN3mcu7set_ISRE9IRQn_TypehPvPFvvE
                 0x00000000       0x58 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_macro   0x00000000       0x56 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
@@ -631,19 +644,10 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_macro   0x00000000       0x64 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
@@ -672,25 +676,16 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .data          0x00000000        0x0 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x17b CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x56 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x1df CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0xfb CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000     0x1011 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000      0x11f CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000     0xb937 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x43 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000      0x198 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x00000000      0x19e CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x15a CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0xe4 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
@@ -702,12 +697,17 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00000000       0x64 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
@@ -764,20 +764,20 @@ Discarded input sections
                 0x00000000       0xc0 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .rodata._ZN3mcu4gpio4extiL4irqnE
                 0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_info    0x00000000     0x1345 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_abbrev  0x00000000      0x424 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_info    0x00000000     0x13ac CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_abbrev  0x00000000      0x441 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_loclists
                 0x00000000      0x258 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_aranges
                 0x00000000       0x30 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_rnglists
                 0x00000000       0x21 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000      0x288 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000      0x2de CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x56 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
@@ -803,29 +803,39 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x64 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x26 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x27 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x4f CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x49 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x17 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x1f CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x12 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x88 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_macro   0x00000000       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_macro   0x00000000       0x11 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_line    0x00000000      0xb4a CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
- .debug_str     0x00000000    0x59978 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_macro   0x00000000       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_line    0x00000000      0xb9e CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
+ .debug_str     0x00000000    0x59f7a CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .comment       0x00000000       0x58 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .debug_frame   0x00000000       0x68 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .ARM.attributes
                 0x00000000       0x34 CMakeFiles/build.elf.dir/libs/superlib/src/supergpio.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
@@ -882,12 +892,12 @@ Discarded input sections
                 0x00000000       0x1a CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .bss._ZN3mcu3dma7dma_idxE
                 0x00000000        0xc CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x56 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
@@ -912,26 +922,55 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x64 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x26 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x27 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x4f CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x49 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x17 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x1f CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x12 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x88 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_macro   0x00000000       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00000000       0x11 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00000000       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .text          0x00000000       0x14 CMakeFiles/build.elf.dir/scripts/startup_stm32f411xe.s.obj
  .data          0x00000000        0x0 CMakeFiles/build.elf.dir/scripts/startup_stm32f411xe.s.obj
  .bss           0x00000000        0x0 CMakeFiles/build.elf.dir/scripts/startup_stm32f411xe.s.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .group         0x00000000        0x8 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
  .group         0x00000000        0xc CMakeFiles/build.elf.dir/src/main.cpp.obj
@@ -1105,12 +1144,12 @@ Discarded input sections
  .text._Z7set_eeev
                 0x00000000       0x3c CMakeFiles/build.elf.dir/src/main.cpp.obj
  .bss.cc        0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000      0xbfe CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000      0xc52 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x56 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x51 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/build.elf.dir/src/main.cpp.obj
@@ -1135,21 +1174,26 @@ Discarded input sections
  .debug_macro   0x00000000       0x87 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000      0x1b2 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0xc8 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0xd6 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000      0x103 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000      0x329 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x64 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x27 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x18 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x4f CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x49 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x28 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x1f CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x12 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x19 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x88 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x19 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00000000       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x18 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x5e CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x1e CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x35 CMakeFiles/build.elf.dir/src/main.cpp.obj
@@ -1163,19 +1207,20 @@ Discarded input sections
  .debug_macro   0x00000000      0x364 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x35 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x29 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0xd5 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00000000       0x3d CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x8e CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_macro   0x00000000       0x4c CMakeFiles/build.elf.dir/src/main.cpp.obj
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
@@ -1295,7 +1340,7 @@ Discarded input sections
                 0x00000000       0x4c libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .text.ulTaskGenericNotifyValueClear
                 0x00000000       0x30 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000      0xaba libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00000000      0xab4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x1e libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x58 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
@@ -1312,20 +1357,13 @@ Discarded input sections
  .debug_macro   0x00000000      0x182 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000      0x341 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x16 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00000000       0x29 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00000000       0x16 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x35 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000      0x103 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x6a libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000      0x1df libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000       0x2e libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000       0x1c libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000       0xfb libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000     0x1011 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000      0x11f libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000     0xb937 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000       0x43 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00000000      0x198 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00000000      0x19e libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000      0x15a libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0xe4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
@@ -1334,15 +1372,6 @@ Discarded input sections
  .debug_macro   0x00000000      0x3ca libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000       0xc3 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_macro   0x00000000      0x120 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
@@ -1390,7 +1419,7 @@ Discarded input sections
                 0x00000000       0x32 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .text.vPortGetHeapStats
                 0x00000000       0x80 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000      0xaba libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+ .debug_macro   0x00000000      0xab4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000       0x1e libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000       0x58 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
@@ -1415,16 +1444,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x103 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000       0x6a libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000      0x1df libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000       0x2e libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000       0x1c libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000       0xfb libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000     0x1011 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000      0x11f libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000     0xb937 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000       0x43 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x00000000      0x198 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+ .debug_macro   0x00000000      0x19e libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000      0x15a libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000       0xe4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
@@ -1464,21 +1484,12 @@ Discarded input sections
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .text          0x00000000        0x0 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .data          0x00000000        0x0 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .bss           0x00000000        0x0 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .text.vListInsertEnd
                 0x00000000       0x16 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000      0xaba libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+ .debug_macro   0x00000000      0xab4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000       0x1e libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000       0x58 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
@@ -1501,16 +1512,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x103 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000       0x6a libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000      0x1df libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000       0x2e libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000       0x1c libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000       0xfb libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000     0x1011 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000      0x11f libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000     0xb937 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000       0x43 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x00000000      0x198 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+ .debug_macro   0x00000000      0x19e libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000      0x15a libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000       0xe4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
@@ -1535,21 +1537,12 @@ Discarded input sections
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .group         0x00000000        0xc libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .text          0x00000000        0x0 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .data          0x00000000        0x0 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .bss           0x00000000        0x0 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .text.vPortEndScheduler
                 0x00000000       0x24 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000      0xaba libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+ .debug_macro   0x00000000      0xab4 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000      0x174 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000       0x8e libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
@@ -1557,16 +1550,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x103 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000       0x6a libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000      0x1df libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000       0x2e libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000       0x1c libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000       0x22 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000       0xfb libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000     0x1011 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000      0x11f libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000     0xb937 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000       0x43 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_macro   0x00000000      0x198 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+ .debug_macro   0x00000000      0x19e libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000      0x15a libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000       0xe4 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_macro   0x00000000       0x28 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
@@ -1832,10 +1816,10 @@ END GROUP
 
 .inits          0x08000244       0x2c
                 0x08000244                __data_regions_array_start = .
-                0x08000244        0x4 LONG 0x8003870 LOADADDR (.data)
+                0x08000244        0x4 LONG 0x8003820 LOADADDR (.data)
                 0x08000248        0x4 LONG 0x20000000 ADDR (.data)
                 0x0800024c        0x4 LONG 0x2000008c (ADDR (.data) + SIZEOF (.data))
-                0x08000250        0x4 LONG 0x8003870 LOADADDR (.data_CCMRAM)
+                0x08000250        0x4 LONG 0x8003820 LOADADDR (.data_CCMRAM)
                 0x08000254        0x4 LONG 0x0 ADDR (.data_CCMRAM)
                 0x08000258        0x4 LONG 0x0 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
                 0x0800025c                __data_regions_array_end = .
@@ -1868,7 +1852,7 @@ END GROUP
 .flashtext
  *(.flashtext .flashtext.*)
 
-.text           0x08000270     0x35fe
+.text           0x08000270     0x35ae
  *(.text .text.*)
  .text._sbrk    0x08000270       0x10 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
                 0x08000270                _sbrk
@@ -2233,69 +2217,69 @@ END GROUP
                 0x0800327c       0x62 CMakeFiles/build.elf.dir/src/main.cpp.obj
  *fill*         0x080032de        0x2 
  .rodata._ZN5Eigen15PlainObjectBaseINS_6MatrixIfLi2ELi2ELi0ELi2ELi2EEEEC2ERKSt16initializer_listIS4_IfEE.str1.4
-                0x080032e0      0x490 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .rodata        0x08003770       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
+                0x080032e0      0x440 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .rodata        0x08003720       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .rodata.vTaskStartScheduler.str1.4
-                0x08003790        0x5 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+                0x08003740        0x5 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .rodata.__assert_func.str1.1
-                0x08003795       0x3c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
+                0x08003745       0x3c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
                                  0x3d (size before relaxing)
- *fill*         0x080037d1        0x3 
+ *fill*         0x08003781        0x3 
  .rodata._global_impure_ptr
-                0x080037d4        0x4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
-                0x080037d4                _global_impure_ptr
+                0x08003784        0x4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                0x08003784                _global_impure_ptr
  .rodata._vfprintf_r.str1.1
-                0x080037d8       0x11 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
- *fill*         0x080037e9        0x3 
+                0x08003788       0x11 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x08003799        0x3 
  .rodata.__sf_fake_stderr
-                0x080037ec       0x20 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
-                0x080037ec                __sf_fake_stderr
+                0x0800379c       0x20 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+                0x0800379c                __sf_fake_stderr
  .rodata.__sf_fake_stdin
-                0x0800380c       0x20 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
-                0x0800380c                __sf_fake_stdin
+                0x080037bc       0x20 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+                0x080037bc                __sf_fake_stdin
  .rodata.__sf_fake_stdout
-                0x0800382c       0x20 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
-                0x0800382c                __sf_fake_stdout
+                0x080037dc       0x20 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+                0x080037dc                __sf_fake_stdout
  .rodata._printf_i.str1.1
-                0x0800384c       0x22 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x080037fc       0x22 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
  *(vtable)
  *(.eh_frame*)
  *(.glue_7)
- .glue_7        0x0800386e        0x0 linker stubs
+ .glue_7        0x0800381e        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800386e        0x0 linker stubs
+ .glue_7t       0x0800381e        0x0 linker stubs
 
-.vfp11_veneer   0x08003870        0x0
- .vfp11_veneer  0x08003870        0x0 linker stubs
+.vfp11_veneer   0x08003820        0x0
+ .vfp11_veneer  0x08003820        0x0 linker stubs
 
-.v4_bx          0x08003870        0x0
- .v4_bx         0x08003870        0x0 linker stubs
+.v4_bx          0x08003820        0x0
+ .v4_bx         0x08003820        0x0 linker stubs
 
-.iplt           0x08003870        0x0
- .iplt          0x08003870        0x0 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+.iplt           0x08003820        0x0
+ .iplt          0x08003820        0x0 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
 
-.rel.dyn        0x08003870        0x0
- .rel.iplt      0x08003870        0x0 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+.rel.dyn        0x08003820        0x0
+ .rel.iplt      0x08003820        0x0 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08003870                . = ALIGN (0x4)
-                0x08003870                __exidx_start = .
+                0x08003820                . = ALIGN (0x4)
+                0x08003820                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x08003870                __exidx_end = .
-                0x08003870                . = ALIGN (0x4)
-                0x08003870                _etext = .
-                0x08003870                __etext = .
+                0x08003820                __exidx_end = .
+                0x08003820                . = ALIGN (0x4)
+                0x08003820                _etext = .
+                0x08003820                __etext = .
 
-.data_CCMRAM    0x00000000        0x0 load address 0x08003870
+.data_CCMRAM    0x00000000        0x0 load address 0x08003820
  FILL mask 0xff
  *(.data.CCMRAM .data.CCMRAM.*)
                 0x00000000                . = ALIGN (0x4)
-                0x08003870                _sidata = LOADADDR (.data)
+                0x08003820                _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x8c load address 0x08003870
+.data           0x20000000       0x8c load address 0x08003820
  FILL mask 0xff
                 0x20000000                _sdata = .
                 0x20000000                __data_start__ = .
@@ -2326,7 +2310,7 @@ END GROUP
                 0x2000008c                _edata = .
                 0x2000008c                __data_end__ = .
 
-.igot.plt       0x2000008c        0x0 load address 0x080038fc
+.igot.plt       0x2000008c        0x0 load address 0x080038ac
  .igot.plt      0x2000008c        0x0 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
 
 .bss_CCMRAM     0x00000000        0x0
@@ -2732,137 +2716,137 @@ DISCARD
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000    0x2fe0a
+.debug_info     0x00000000    0x37a35
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0x208 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_info    0x00000208      0x495 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_info    0x0000069d      0x9d9 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_info    0x00001076      0xe68 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_info    0x00001ede      0x550 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
- .debug_info    0x0000242e      0x7c9 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_info    0x00002bf7     0x585d CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_info    0x00008454      0x82d CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_info    0x00008c81      0x25c CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_info    0x00008edd     0x6419 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_info    0x0000f2f6     0xeba1 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_info    0x0001de97     0x3222 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_info    0x000210b9      0x65e libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_info    0x00021717      0x2c3 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_info    0x000219da      0x559 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_info    0x00021f33      0x874 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
- .debug_info    0x000227a7      0x751 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
- .debug_info    0x00022ef8      0x8ab c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
- .debug_info    0x000237a3      0x7fc c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
- .debug_info    0x00023f9f      0x121 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
- .debug_info    0x000240c0       0xe0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
- .debug_info    0x000241a0     0x112d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
- .debug_info    0x000252cd      0x953 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
- .debug_info    0x00025c20      0x8af c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
- .debug_info    0x000264cf      0xa4e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
- .debug_info    0x00026f1d      0xebd c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
- .debug_info    0x00027dda      0x88f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
- .debug_info    0x00028669      0xb81 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
- .debug_info    0x000291ea       0x25 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
- .debug_info    0x0002920f      0x89c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
- .debug_info    0x00029aab      0xa12 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
- .debug_info    0x0002a4bd      0xe38 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_info    0x0002b2f5      0x7d2 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
- .debug_info    0x0002bac7      0xaaa c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
- .debug_info    0x0002c571      0x809 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
- .debug_info    0x0002cd7a      0x7ad c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
- .debug_info    0x0002d527      0x9cb c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
- .debug_info    0x0002def2      0x7ad c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
- .debug_info    0x0002e69f      0x7ec c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
- .debug_info    0x0002ee8b      0x77c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
- .debug_info    0x0002f607      0x803 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .debug_info    0x00000000      0x206 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_info    0x00000206      0x495 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_info    0x0000069b      0x9d9 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_info    0x00001074      0xe6f CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_info    0x00001ee3      0x550 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+ .debug_info    0x00002433      0x7c9 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_info    0x00002bfc     0x58c4 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_info    0x000084c0      0x834 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_info    0x00008cf4      0x25e CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_info    0x00008f52     0x6483 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_info    0x0000f3d5    0x166e8 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_info    0x00025abd     0x3222 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_info    0x00028cdf      0x65e libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+ .debug_info    0x0002933d      0x2c3 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+ .debug_info    0x00029600      0x55e libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+ .debug_info    0x00029b5e      0x874 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
+ .debug_info    0x0002a3d2      0x751 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .debug_info    0x0002ab23      0x8ab c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
+ .debug_info    0x0002b3ce      0x7fc c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .debug_info    0x0002bbca      0x121 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_info    0x0002bceb       0xe0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_info    0x0002bdcb     0x112d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_info    0x0002cef8      0x953 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
+ .debug_info    0x0002d84b      0x8af c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
+ .debug_info    0x0002e0fa      0xa4e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .debug_info    0x0002eb48      0xebd c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .debug_info    0x0002fa05      0x88f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .debug_info    0x00030294      0xb81 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .debug_info    0x00030e15       0x25 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
+ .debug_info    0x00030e3a      0x89c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x000316d6      0xa12 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x000320e8      0xe38 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x00032f20      0x7d2 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x000336f2      0xaaa c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .debug_info    0x0003419c      0x809 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .debug_info    0x000349a5      0x7ad c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .debug_info    0x00035152      0x9cb c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .debug_info    0x00035b1d      0x7ad c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .debug_info    0x000362ca      0x7ec c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .debug_info    0x00036ab6      0x77c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .debug_info    0x00037232      0x803 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
 
-.debug_abbrev   0x00000000     0x6943
+.debug_abbrev   0x00000000     0x6a5f
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0x14f CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_abbrev  0x0000014f      0x234 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_abbrev  0x00000383      0x12d CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_abbrev  0x000004b0      0x393 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_abbrev  0x00000843      0x120 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
- .debug_abbrev  0x00000963      0x292 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_abbrev  0x00000bf5      0x6c4 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_abbrev  0x000012b9      0x2dc CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_abbrev  0x00001595      0x182 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_abbrev  0x00001717      0x7e7 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_abbrev  0x00001efe      0xf4d CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_abbrev  0x00002e4b      0x3b3 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_abbrev  0x000031fe      0x2bb libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_abbrev  0x000034b9      0x10c libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_abbrev  0x000035c5      0x295 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_abbrev  0x0000385a      0x1ea c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
- .debug_abbrev  0x00003a44      0x15e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
- .debug_abbrev  0x00003ba2      0x21d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
- .debug_abbrev  0x00003dbf      0x15a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
- .debug_abbrev  0x00003f19       0xc1 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
- .debug_abbrev  0x00003fda       0x9e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
- .debug_abbrev  0x00004078      0x305 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
- .debug_abbrev  0x0000437d      0x22e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
- .debug_abbrev  0x000045ab      0x1d9 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
- .debug_abbrev  0x00004784      0x2b9 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
- .debug_abbrev  0x00004a3d      0x3cd c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
- .debug_abbrev  0x00004e0a      0x19f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
- .debug_abbrev  0x00004fa9      0x2a3 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
- .debug_abbrev  0x0000524c       0x14 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
- .debug_abbrev  0x00005260      0x23b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
- .debug_abbrev  0x0000549b      0x24a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
- .debug_abbrev  0x000056e5      0x285 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_abbrev  0x0000596a      0x1da c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
- .debug_abbrev  0x00005b44      0x221 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
- .debug_abbrev  0x00005d65      0x1b5 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
- .debug_abbrev  0x00005f1a      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
- .debug_abbrev  0x000060ca      0x1c3 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
- .debug_abbrev  0x0000628d      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
- .debug_abbrev  0x0000643d      0x1c4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
- .debug_abbrev  0x00006601      0x192 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
- .debug_abbrev  0x00006793      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .debug_abbrev  0x00000000      0x150 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_abbrev  0x00000150      0x234 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_abbrev  0x00000384      0x12d CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_abbrev  0x000004b1      0x393 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_abbrev  0x00000844      0x120 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x00000964      0x292 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_abbrev  0x00000bf6      0x6e1 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_abbrev  0x000012d7      0x2dc CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_abbrev  0x000015b3      0x17b CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_abbrev  0x0000172e      0x806 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_abbrev  0x00001f34     0x1033 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_abbrev  0x00002f67      0x3b3 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_abbrev  0x0000331a      0x2bb libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+ .debug_abbrev  0x000035d5      0x10c libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+ .debug_abbrev  0x000036e1      0x295 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+ .debug_abbrev  0x00003976      0x1ea c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
+ .debug_abbrev  0x00003b60      0x15e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .debug_abbrev  0x00003cbe      0x21d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
+ .debug_abbrev  0x00003edb      0x15a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x00004035       0xc1 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x000040f6       0x9e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x00004194      0x305 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_abbrev  0x00004499      0x22e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
+ .debug_abbrev  0x000046c7      0x1d9 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
+ .debug_abbrev  0x000048a0      0x2b9 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .debug_abbrev  0x00004b59      0x3cd c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .debug_abbrev  0x00004f26      0x19f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .debug_abbrev  0x000050c5      0x2a3 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00005368       0x14 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000537c      0x23b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x000055b7      0x24a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x00005801      0x285 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_abbrev  0x00005a86      0x1da c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00005c60      0x221 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .debug_abbrev  0x00005e81      0x1b5 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .debug_abbrev  0x00006036      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .debug_abbrev  0x000061e6      0x1c3 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .debug_abbrev  0x000063a9      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .debug_abbrev  0x00006559      0x1c4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .debug_abbrev  0x0000671d      0x192 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .debug_abbrev  0x000068af      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
 
-.debug_line     0x00000000    0x11c81
+.debug_line     0x00000000    0x11641
  *(.debug_line)
- .debug_line    0x00000000      0x594 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_line    0x00000594      0x576 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_line    0x00000b0a      0x712 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_line    0x0000121c      0xa9a CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_line    0x00001cb6      0x45e CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
- .debug_line    0x00002114      0x95c CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_line    0x00002a70      0xcd7 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_line    0x00003747      0x828 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_line    0x00003f6f      0x786 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_line    0x000046f5     0x10ad CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_line    0x000057a2     0x2c6d CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_line    0x0000840f     0x3106 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_line    0x0000b515      0xb4b libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_line    0x0000c060      0x76b libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_line    0x0000c7cb      0x9fe libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
- .debug_line    0x0000d1c9      0x228 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
- .debug_line    0x0000d3f1      0x17d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
- .debug_line    0x0000d56e      0x237 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
- .debug_line    0x0000d7a5      0x15b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
- .debug_line    0x0000d900      0x191 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
- .debug_line    0x0000da91      0x176 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
- .debug_line    0x0000dc07      0x6e1 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
- .debug_line    0x0000e2e8      0x2f7 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
- .debug_line    0x0000e5df      0x33b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
- .debug_line    0x0000e91a      0x47e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
- .debug_line    0x0000ed98      0x518 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
- .debug_line    0x0000f2b0      0x2cc c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
- .debug_line    0x0000f57c      0x3c3 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
- .debug_line    0x0000f93f       0x82 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
- .debug_line    0x0000f9c1      0x30e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
- .debug_line    0x0000fccf      0x496 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
- .debug_line    0x00010165      0x73f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_line    0x000108a4      0x214 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
- .debug_line    0x00010ab8      0x2ed c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
- .debug_line    0x00010da5      0x213 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
- .debug_line    0x00010fb8      0x214 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
- .debug_line    0x000111cc      0x2a9 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
- .debug_line    0x00011475      0x215 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
- .debug_line    0x0001168a      0x213 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
- .debug_line    0x0001189d      0x1d2 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
- .debug_line    0x00011a6f      0x212 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .debug_line    0x00000000      0x452 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_line    0x00000452      0x576 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_line    0x000009c8      0x712 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_line    0x000010da      0xab4 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_line    0x00001b8e      0x45e CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+ .debug_line    0x00001fec      0x95c CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_line    0x00002948      0xd2b CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_line    0x00003673      0x828 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_line    0x00003e9b      0x644 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_line    0x000044df     0x1101 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_line    0x000055e0     0x2d07 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_line    0x000082e7     0x2fc4 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_line    0x0000b2ab      0xa09 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+ .debug_line    0x0000bcb4      0x629 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+ .debug_line    0x0000c2dd      0x8ac libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+ .debug_line    0x0000cb89      0x228 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
+ .debug_line    0x0000cdb1      0x17d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .debug_line    0x0000cf2e      0x237 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
+ .debug_line    0x0000d165      0x15b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .debug_line    0x0000d2c0      0x191 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_line    0x0000d451      0x176 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_line    0x0000d5c7      0x6e1 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_line    0x0000dca8      0x2f7 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
+ .debug_line    0x0000df9f      0x33b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
+ .debug_line    0x0000e2da      0x47e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .debug_line    0x0000e758      0x518 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .debug_line    0x0000ec70      0x2cc c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .debug_line    0x0000ef3c      0x3c3 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .debug_line    0x0000f2ff       0x82 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
+ .debug_line    0x0000f381      0x30e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x0000f68f      0x496 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x0000fb25      0x73f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x00010264      0x214 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x00010478      0x2ed c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .debug_line    0x00010765      0x213 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .debug_line    0x00010978      0x214 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .debug_line    0x00010b8c      0x2a9 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .debug_line    0x00010e35      0x215 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .debug_line    0x0001104a      0x213 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .debug_line    0x0001125d      0x1d2 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .debug_line    0x0001142f      0x212 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
 
 .debug_frame    0x00000000     0x18c8
  *(.debug_frame)
@@ -2906,89 +2890,89 @@ DISCARD
  .debug_frame   0x0000186c       0x30 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
  .debug_frame   0x0000189c       0x2c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
 
-.debug_str      0x00000000    0x81ab5
+.debug_str      0x00000000    0x949f2
  *(.debug_str)
- .debug_str     0x00000000    0x5296d CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
-                              0x52b71 (size before relaxing)
- .debug_str     0x0005296d     0x23b7 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
-                               0x63ec (size before relaxing)
- .debug_str     0x00054d24     0x2748 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
-                               0x8196 (size before relaxing)
- .debug_str     0x0005746c     0x5e79 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
-                              0x5adc2 (size before relaxing)
- .debug_str     0x0005d2e5       0xde CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
-                              0x4fb1b (size before relaxing)
- .debug_str     0x0005d3c3      0x2f4 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
-                               0x317c (size before relaxing)
- .debug_str     0x0005d6b7     0x81f3 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
-                              0x604dd (size before relaxing)
- .debug_str     0x000658aa       0xcd CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
-                              0x58226 (size before relaxing)
- .debug_str     0x00065977       0xb7 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
-                              0x57d3d (size before relaxing)
- .debug_str     0x00065a2e      0x7b3 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
-                              0x60b5c (size before relaxing)
- .debug_str     0x000661e1    0x179ae CMakeFiles/build.elf.dir/src/main.cpp.obj
-                              0x7ba0d (size before relaxing)
- .debug_str     0x0007db8f     0x1e9f libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
-                              0x59095 (size before relaxing)
- .debug_str     0x0007fa2e      0x61c libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
-                              0x576ea (size before relaxing)
- .debug_str     0x0008004a       0x8e libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
-                              0x55f12 (size before relaxing)
- .debug_str     0x000800d8      0x7a1 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
-                              0x55132 (size before relaxing)
- .debug_str     0x00080879      0x1ab c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
+ .debug_str     0x00000000     0x6da3 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+                               0x6fa7 (size before relaxing)
+ .debug_str     0x00006da3     0x23b7 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+                               0x63d2 (size before relaxing)
+ .debug_str     0x0000915a     0x2748 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+                               0x817c (size before relaxing)
+ .debug_str     0x0000b8a2    0x51d1a CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+                              0x5b199 (size before relaxing)
+ .debug_str     0x0005d5bc       0xf1 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+                              0x4fb01 (size before relaxing)
+ .debug_str     0x0005d6ad      0x2f4 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+                               0x3162 (size before relaxing)
+ .debug_str     0x0005d9a1     0x8430 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+                              0x60adf (size before relaxing)
+ .debug_str     0x00065dd1       0xcd CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+                              0x585e0 (size before relaxing)
+ .debug_str     0x00065e9e       0xb7 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+                               0xc54d (size before relaxing)
+ .debug_str     0x00065f55      0x7b3 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+                              0x6115e (size before relaxing)
+ .debug_str     0x00066708    0x2a41d CMakeFiles/build.elf.dir/src/main.cpp.obj
+                              0x8f44a (size before relaxing)
+ .debug_str     0x00090b25     0x1e46 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+                               0xd4cb (size before relaxing)
+ .debug_str     0x0009296b      0x61c libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+                               0xbb20 (size before relaxing)
+ .debug_str     0x00092f87       0x8e libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+                               0xa348 (size before relaxing)
+ .debug_str     0x00093015      0x7a1 libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+                               0x9568 (size before relaxing)
+ .debug_str     0x000937b6      0x1ab c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
                                 0x5b3 (size before relaxing)
- .debug_str     0x00080a24       0xe5 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .debug_str     0x00093961       0xe5 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
                                 0x573 (size before relaxing)
- .debug_str     0x00080b09       0xfe c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
+ .debug_str     0x00093a46       0xfe c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
                                 0x5b7 (size before relaxing)
- .debug_str     0x00080c07      0x131 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .debug_str     0x00093b44      0x131 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
                                 0x5ca (size before relaxing)
- .debug_str     0x00080d38      0x10b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_str     0x00093c75      0x10b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
                                 0x23b (size before relaxing)
- .debug_str     0x00080e43       0xe8 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_str     0x00093d80       0xe8 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
                                 0x218 (size before relaxing)
- .debug_str     0x00080f2b      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_str     0x00093e68      0x1b0 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
                                 0x925 (size before relaxing)
- .debug_str     0x000810db       0x6a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
+ .debug_str     0x00094018       0x6a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
                                 0x5ee (size before relaxing)
- .debug_str     0x00081145       0x6f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
+ .debug_str     0x00094082       0x6f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
                                 0x5e9 (size before relaxing)
- .debug_str     0x000811b4       0x83 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .debug_str     0x000940f1       0x83 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
                                 0x62a (size before relaxing)
- .debug_str     0x00081237      0x21d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .debug_str     0x00094174      0x21d c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
                                 0x7d6 (size before relaxing)
- .debug_str     0x00081454       0x68 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .debug_str     0x00094391       0x68 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
                                 0x590 (size before relaxing)
- .debug_str     0x000814bc       0x8b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .debug_str     0x000943f9       0x8b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
                                 0x717 (size before relaxing)
- .debug_str     0x00081547       0x15 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
+ .debug_str     0x00094484       0x15 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memchr.o)
                                  0xa7 (size before relaxing)
- .debug_str     0x0008155c       0xdb c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .debug_str     0x00094499       0xdb c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
                                 0x601 (size before relaxing)
- .debug_str     0x00081637       0x46 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_str     0x00094574       0x46 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
                                 0x660 (size before relaxing)
- .debug_str     0x0008167d       0xae c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_str     0x000945ba       0xae c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
                                 0x858 (size before relaxing)
- .debug_str     0x0008172b       0x5e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .debug_str     0x00094668       0x5e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
                                 0x582 (size before relaxing)
- .debug_str     0x00081789       0x97 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .debug_str     0x000946c6       0x97 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
                                 0x5e6 (size before relaxing)
- .debug_str     0x00081820       0x5a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .debug_str     0x0009475d       0x5a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
                                 0x57f (size before relaxing)
- .debug_str     0x0008187a       0x5a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .debug_str     0x000947b7       0x5a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
                                 0x56f (size before relaxing)
- .debug_str     0x000818d4       0x60 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .debug_str     0x00094811       0x60 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
                                 0x6c1 (size before relaxing)
- .debug_str     0x00081934       0x5b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .debug_str     0x00094871       0x5b c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
                                 0x579 (size before relaxing)
- .debug_str     0x0008198f       0x5a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .debug_str     0x000948cc       0x5a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
                                 0x57d (size before relaxing)
- .debug_str     0x000819e9       0x73 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .debug_str     0x00094926       0x73 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
                                 0x598 (size before relaxing)
- .debug_str     0x00081a5c       0x59 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .debug_str     0x00094999       0x59 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
                                 0x57d (size before relaxing)
 
 .debug_loc
@@ -3015,7 +2999,7 @@ LOAD c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-
 LOAD c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a
 
 .debug_loclists
-                0x00000000     0x5581
+                0x00000000     0x554b
  .debug_loclists
                 0x00000000       0x90 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
  .debug_loclists
@@ -3037,59 +3021,59 @@ LOAD c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-
  .debug_loclists
                 0x0000152f      0x6c7 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
  .debug_loclists
-                0x00001bf6      0x519 CMakeFiles/build.elf.dir/src/main.cpp.obj
+                0x00001bf6      0x4e3 CMakeFiles/build.elf.dir/src/main.cpp.obj
  .debug_loclists
-                0x0000210f     0x179c libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+                0x000020d9     0x179c libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
  .debug_loclists
-                0x000038ab      0x312 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+                0x00003875      0x312 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
  .debug_loclists
-                0x00003bbd       0x6f libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+                0x00003b87       0x6f libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
  .debug_loclists
-                0x00003c2c       0xbb libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+                0x00003bf6       0xbb libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
  .debug_loclists
-                0x00003ce7       0xe6 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
+                0x00003cb1       0xe6 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-assert.o)
  .debug_loclists
-                0x00003dcd       0x6e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
+                0x00003d97       0x6e c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fprintf.o)
  .debug_loclists
-                0x00003e3b       0x8f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                0x00003e05       0x8f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
  .debug_loclists
-                0x00003eca       0x47 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+                0x00003e94       0x47 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
  .debug_loclists
-                0x00003f11      0x3f6 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00003edb      0x3f6 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf.o)
  .debug_loclists
-                0x00004307       0xdf c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
+                0x000042d1       0xdf c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wbuf.o)
  .debug_loclists
-                0x000043e6       0x4a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
+                0x000043b0       0x4a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-wsetup.o)
  .debug_loclists
-                0x00004430      0x1b4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+                0x000043fa      0x1b4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
  .debug_loclists
-                0x000045e4      0x180 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+                0x000045ae      0x180 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
  .debug_loclists
-                0x00004764       0xef c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+                0x0000472e       0xef c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
  .debug_loclists
-                0x00004853      0x11f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+                0x0000481d      0x11f c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
  .debug_loclists
-                0x00004972       0xd4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+                0x0000493c       0xd4 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
  .debug_loclists
-                0x00004a46      0x254 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00004a10      0x254 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
  .debug_loclists
-                0x00004c9a      0x3fe c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00004c64      0x3fe c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-vfprintf_i.o)
  .debug_loclists
-                0x00005098       0x4c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+                0x00005062       0x4c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
  .debug_loclists
-                0x000050e4      0x203 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+                0x000050ae      0x203 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
  .debug_loclists
-                0x000052e7       0x88 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+                0x000052b1       0x88 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
  .debug_loclists
-                0x0000536f       0x4c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+                0x00005339       0x4c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
  .debug_loclists
-                0x000053bb       0x6a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+                0x00005385       0x6a c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
  .debug_loclists
-                0x00005425       0x4c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+                0x000053ef       0x4c c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
  .debug_loclists
-                0x00005471       0x88 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+                0x0000543b       0x88 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
  .debug_loclists
-                0x000054f9       0x88 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+                0x000054c3       0x88 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
 
 .debug_rnglists
                 0x00000000      0xa38
@@ -3172,204 +3156,206 @@ LOAD c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-
  .debug_rnglists
                 0x00000a25       0x13 c:/users/daniil/desktop/embedded/gcc-arm-none-eabi-11.2/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
 
-.debug_macro    0x00000000    0x158fb
- .debug_macro   0x00000000      0x12e CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000012e      0xaba CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x00000be8      0x174 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x00000d5c       0x8e CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x00000dea       0x51 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x00000e3b      0x103 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x00000f3e      0x1df CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000111d       0x2e CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000114b       0x28 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x00001173       0x1c CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000118f       0x22 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x000011b1       0xfb CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x000012ac     0x1011 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x000022bd      0x11f CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x000023dc     0xb937 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000dd13       0x43 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000dd56      0x198 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000deee      0x15a CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000e048       0xe4 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000e12c       0x28 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000e154       0x1f CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000e173       0x12 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000e185      0x3ca CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
- .debug_macro   0x0000e54f      0x164 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000e6b3       0x5e CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000e711       0x34 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000e745      0x341 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000ea86       0x43 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000eac9       0x1c CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000eae5       0x52 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000eb37       0x22 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000eb59       0x10 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000eb69       0x52 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000ebbb       0xd5 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000ec90       0x1c CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000ecac       0x3d CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
- .debug_macro   0x0000ece9      0x1e7 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000eed0       0x94 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000ef64       0x1c CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000ef80       0x10 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000ef90      0x23b CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f1cb      0x10c CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f2d7      0x189 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f460       0x16 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f476       0x16 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f48c       0x35 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f4c1       0x10 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f4d1       0x10 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f4e1       0x35 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f516      0x12c CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f642       0xce CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
- .debug_macro   0x0000f710      0x25d CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0000f96d      0x17b CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0000fae8       0x10 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0000faf8       0x35 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0000fb2d       0x8e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0000fbbb       0x1c CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0000fbd7     0x1011 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00010be8      0x19e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00010d86       0xc3 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00010e49      0x120 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00010f69       0x87 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x00010ff0       0x6a CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
- .debug_macro   0x0001105a       0xda CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
- .debug_macro   0x00011134       0x23 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_macro   0x00011157       0x4c CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_macro   0x000111a3       0x58 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
- .debug_macro   0x000111fb      0x292 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001148d       0x56 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x000114e3       0x64 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x00011547       0x26 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001156d       0x27 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x00011594       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x000115b0       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x000115c8       0x4f CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x00011617       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001163f       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001166d       0x1f CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001168c       0x88 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x00011714       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001172d       0x11 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
- .debug_macro   0x0001173e      0x1a7 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
- .debug_macro   0x000118e5      0x1a3 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
- .debug_macro   0x00011a88      0x2a0 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
- .debug_macro   0x00011d28     0x12ff CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013027       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013043       0x3c CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001307f       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001308f       0x33 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000130c2      0x173 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013235       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013246       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013257       0x19 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013270      0x1b2 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013422       0xe5 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013507       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013517       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013527      0x3ce CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000138f5       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001390b      0x120 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013a2b       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013a3c       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013a53       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013a6a       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013a81       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013a98       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013aaf       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013ac6      0x1b6 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013c7c       0x72 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013cee       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013cfe       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d0e       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d1e       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d2f       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d40       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d50       0x2e CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d7e       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013d94       0x46 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013dda       0x5e CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013e38       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013e49       0x2f CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013e78       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013e8e       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013e9f       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013eb0       0xf0 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013fa0       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00013fbc       0xbe CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001407a       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014090      0x10d CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001419d      0x11d CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000142ba      0x241 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000144fb       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014512       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014522       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014532       0x76 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000145a8       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000145c4       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000145d5       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000145e6       0x28 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001460e       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014624       0x22 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014646       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014656       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014667       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014678       0x2d CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000146a5       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000146cb       0x12 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000146dd       0x34 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014711       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014727       0xc4 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000147eb       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014807       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014817       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x0001482d       0x64 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014891       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000148a2       0x46 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000148e8       0x2f CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014917       0x30 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014947       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014957       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014967       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014977       0x22 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014999       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000149bf       0x25 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x000149e4       0x1e CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a02       0x18 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a1a       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a2b       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a4b       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a61       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a81       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014a97       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014ab7       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014ac7       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014add       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014af3       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014b09       0x50 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014b59       0x65 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014bbe       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014bd5       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014be5       0xb4 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014c99       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014caa       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014cc0       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014cd6       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014cec       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014cfc       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
- .debug_macro   0x00014d22      0x2db libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00014ffd      0x10e libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x0001510b       0x8d libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00015198       0x16 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x000151ae       0x29 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x000151d7       0x91 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x00015268       0x17 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
- .debug_macro   0x0001527f      0x276 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
- .debug_macro   0x000154f5      0x1fa libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
- .debug_macro   0x000156ef      0x20c libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
+.debug_macro    0x00000000    0x157f2
+ .debug_macro   0x00000000       0xbd CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x000000bd      0xab4 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00000b71      0x174 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00000ce5       0x8e CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00000d73       0x51 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00000dc4      0x103 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00000ec7      0x1df CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x000010a6      0x19e CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00001244      0x15a CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x0000139e       0xe4 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x00001482       0x28 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x000014aa       0x1f CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x000014c9       0x12 CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x000014db      0x3ca CMakeFiles/build.elf.dir/libs/src/_mem.c.obj
+ .debug_macro   0x000018a5      0x164 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00001a09       0x5e CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00001a67       0x34 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00001a9b      0x341 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00001ddc       0x43 CMakeFiles/build.elf.dir/libs/src/_startup.c.obj
+ .debug_macro   0x00001e1f      0x1e7 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002006       0x1c CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002022       0x10 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002032      0x23b CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x0000226d      0x10c CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002379      0x189 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002502       0x16 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002518       0x16 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x0000252e       0x35 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002563       0x10 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002573       0x10 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x00002583       0x35 CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x000025b8      0x12c CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x000026e4       0xce CMakeFiles/build.elf.dir/libs/src/_syscalls.c.obj
+ .debug_macro   0x000027b2      0x271 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002a23      0x17b CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002b9e       0x10 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002bae       0x35 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002be3       0x8e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002c71       0x2e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002c9f       0x28 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002cc7       0x1c CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002ce3       0x1c CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002cff       0x22 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002d21       0xfb CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00002e1c     0x1011 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00003e2d      0x11f CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x00003f4c     0xb937 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000f883       0x43 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000f8c6      0x19e CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000fa64       0xc3 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000fb27      0x120 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000fc47       0x87 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000fcce       0x94 CMakeFiles/build.elf.dir/libs/src/system_init.cpp.obj
+ .debug_macro   0x0000fd62       0xda CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+ .debug_macro   0x0000fe3c     0x1011 CMakeFiles/build.elf.dir/libs/src/system_stm32f4xx.c.obj
+ .debug_macro   0x00010e4d       0x23 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_macro   0x00010e70       0x4c CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_macro   0x00010ebc       0x58 CMakeFiles/build.elf.dir/libs/src/xprintf.c.obj
+ .debug_macro   0x00010f14      0x2e8 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000111fc       0x8e CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x0001128a       0x26 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000112b0       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000112c0       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000112d8       0x49 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00011321       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x0001134f       0x1c CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x0001136b       0x17 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00011382       0x10 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00011392       0x28 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000113ba       0x2e CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000113e8       0x16 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000113fe       0x12 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00011410       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x00011429       0x88 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000114b1       0x19 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000114ca       0x18 CMakeFiles/build.elf.dir/libs/superlib/src/dma.cpp.obj
+ .debug_macro   0x000114e2      0x1a7 CMakeFiles/build.elf.dir/libs/superlib/src/mcu_base.cpp.obj
+ .debug_macro   0x00011689      0x132 CMakeFiles/build.elf.dir/libs/superlib/src/os_abstraction.cpp.obj
+ .debug_macro   0x000117bb      0x2f6 CMakeFiles/build.elf.dir/libs/superlib/src/uart.cpp.obj
+ .debug_macro   0x00011ab1     0x1402 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00012eb3       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00012ecf       0x3c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00012f0b       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00012f1b       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00012f2b       0x33 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00012f5e      0x173 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000130d1       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000130e2       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000130f3       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013103       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001311a       0x1f CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013139      0x1bf CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000132f8      0x194 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001348c       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001349c       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000134ac      0x3d5 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013881       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013897      0x120 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000139b7       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000139c8       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000139df       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000139f6       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013a0d       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013a24       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013a3b       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013a52      0x23b CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013c8d       0x74 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d01       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d11       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d21       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d31       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d41       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d52       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013d62       0x5e CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013dc0       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013dd6       0x52 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013e28       0x5e CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013e86       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013e97       0x2f CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013ec6       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013edc       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013eed       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013efe       0xf0 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013fee       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00013fff       0x12 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014011       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014028       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014044       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001405a      0x130 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001418a      0x11d CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000142a7      0x241 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000144e8       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000144ff       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001450f       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001451f       0x76 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014595       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000145b1       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000145c2       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000145d9       0x28 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014601       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014617       0x22 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014639       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014649       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001465a       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001466a       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001467b       0x2d CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000146a8       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000146ce       0x41 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001470f       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014725       0xe8 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001480d       0x1c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014829       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014839       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001484f       0x72 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000148c1       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000148d8       0x54 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001492c       0x2f CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001495b       0x30 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001498b       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x0001499b       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000149ab       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000149bb       0x22 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x000149dd       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014a03       0x25 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014a28       0x1e CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014a46       0x18 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014a5e       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014a6f       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014a8f       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014aa5       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014ac5       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014adb       0x20 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014afb       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014b0b       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014b21       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014b37       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014b4d       0x50 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014b9d       0x65 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014c02       0x17 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014c19       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014c29       0xba CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014ce3       0x4c CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014d2f       0x2e CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014d5d       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014d83       0x11 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014d94       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014daa       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014dc0       0x16 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014dd6       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014de6       0x10 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014df6       0x26 CMakeFiles/build.elf.dir/src/main.cpp.obj
+ .debug_macro   0x00014e1c      0x26a libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00015086      0x10e libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00015194       0x8d libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x00015221       0x91 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x000152b2       0x17 libs/FreeRTOS-Kernel/libfreertos_kernel.a(tasks.c.obj)
+ .debug_macro   0x000152c9      0x205 libs/FreeRTOS-Kernel/libfreertos_kernel.a(heap_4.c.obj)
+ .debug_macro   0x000154ce      0x189 libs/FreeRTOS-Kernel/libfreertos_kernel.a(list.c.obj)
+ .debug_macro   0x00015657      0x19b libs/FreeRTOS-Kernel/portable/libfreertos_kernel_port.a(port.c.obj)
 
 .debug_line_str
                 0x00000000       0x60

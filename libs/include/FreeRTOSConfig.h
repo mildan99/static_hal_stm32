@@ -42,7 +42,7 @@
 
 /* Ensure stdint is only used by the compiler, and not the assembler. */
 #include <stdint.h>
-#include "stm32f4xx.h"
+//#include "stm32f4xx.h"
 extern uint32_t SystemCoreClock;
 
 #define configUSE_PREEMPTION 					1

@@ -44,6 +44,5 @@ target_link_libraries(freertos_kernel cmsis-core)
 
 add_subdirectory(etl)
 
+set(Eigen3_DIR ${CMAKE_CURRENT_SOURCE_DIR}/eigen/cmake/ CACHE STRING "")
 
-add_subdirectory(eigen)
-target_compile_definitions(eigen INTERFACE EIGEN_NO_MALLOC EIGEN_NO_IO)

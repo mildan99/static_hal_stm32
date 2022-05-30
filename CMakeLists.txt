@@ -13,9 +13,6 @@ project(BlackPill-1 VERSION 0.0.1 DESCRIPTION "Test priject")
 enable_language(C)
 enable_language(CXX)
 enable_language(ASM)
-# Configure the C and C++ standards
-SET(CMAKE_C_STANDARD 11)
-SET(CMAKE_CXX_STANDARD 17)
 #
 # Select from:
 # - STATIC_LIBRARY
@@ -27,7 +24,6 @@ set(TYPE EXECUTABLE)
 # Add your project #defines here
 # These are included as #defines in the project
 add_compile_definitions( ${TARGET}  STM32F411xE
-                                    ARM_MATH_CM4
                                     HSE_VALUE=25000000
                                     EIGEN_DONT_VECTORIZE
                                     EIGEN_NO_IO
@@ -35,7 +31,7 @@ add_compile_definitions( ${TARGET}  STM32F411xE
 
 #
 # TODO: Add any additional include directories here
-include_directories(
+set( PROJECT_INCLUDE_DIRS
     "include"
     "libs/include"
     "libs/Device/ST/STM32F4xx/Include"
@@ -95,6 +91,8 @@ set(FREERTOS_PORT GCC_ARM_CM4F CACHE STRING "")
 add_subdirectory(libs)
 
 
+find_package (Eigen3 REQUIRED NO_MODULE)
+
 if (TYPE STREQUAL "STATIC_LIBRARY")
     set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
     #
@@ -104,10 +102,12 @@ if (TYPE STREQUAL "STATIC_LIBRARY")
 else()
     # 
     add_executable(build.elf ${MAIN_SOURCE})
+    target_include_directories(build.elf PUBLIC ${PROJECT_INCLUDE_DIRS})
     target_link_libraries(build.elf PUBLIC ${LINKER_LIBS} cmsis-core freertos_kernel etl::etl Eigen3::Eigen)
-  #  configure_file(build/compile_commands.json ../compile_commands.json COPYONLY)
+    target_compile_features(build.elf PUBLIC cxx_std_20)
+    target_compile_options(build.elf PUBLIC -Wno-volatile)
+    target_compile_definitions(build.elf PUBLIC EIGEN_NO_MALLOC EIGEN_NO_IO EIGEN_DONT_VECTORIZE)
 
-    #message(${CMAKE_SOURCE_DIR})
     #
     # Print the size of the .hex
     add_custom_target(size ALL ${CMAKE_SIZE} build.elf DEPENDS build.elf)

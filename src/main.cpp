@@ -36,7 +36,7 @@ void exti_handler() {
     ;
 }
 
-__attribute__((noreturn))  void task_blink(void *p) {
+[[noreturn]]  void task_blink(void *p) {
   (void)p;
   {
     using namespace mcu::gpio;
