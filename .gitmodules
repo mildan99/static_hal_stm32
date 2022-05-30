@@ -1,0 +1,9 @@
+[submodule "libs/FreeRTOS-Kernel"]
+	path = libs/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "libs/CMSIS_5"]
+	path = libs/CMSIS_5
+	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "libs/etl"]
+	path = libs/etl
+	url = https://github.com/ETLCPP/etl.git
