@@ -1,0 +1,14 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "serial",
+            "type": "shell",
+            "command": "plink -serial -sercfg 115200,8,e,1,N  COM13",
+            "group": "none",
+            "problemMatcher": []
+        }
+    ]
+}

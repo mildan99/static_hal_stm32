@@ -1,0 +1,6 @@
+[
+    {
+        "name": "arm-none-eabi",
+        "toolchainFile": "scripts/CMake/Toolchain.cmake"
+    }
+]

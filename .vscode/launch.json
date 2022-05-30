@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "jlink",
+            "cwd": "${workspaceRoot}",
+            "executable": "${workspaceRoot}/build/build.elf",
+            "svdFile": "${workspaceRoot}/STM32F411.svd",
+            "device": "STM32F411CE",
+            "name": "Debug (JLink)",
+            "interface": "swd",
+            "rtos": "FreeRTOS",
+            "demangle": true,
+            "runToMain": true
+
+        },
+        {
+            "type": "cortex-debug",
+            "request": "attach",
+            "servertype": "jlink",
+            "cwd": "${workspaceRoot}",
+            "executable": "${workspaceRoot}/build/build.elf",
+            "svdFile": "${workspaceRoot}/STM32F411.svd",
+            "device": "STM32F411CE",
+            "name": "Attach (JLink)",
+            "interface": "swd",
+            "rtos": "FreeRTOS",
+            "demangle": true
+
+        }
+    ]
+}
