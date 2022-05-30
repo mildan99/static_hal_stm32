@@ -1,0 +1,14 @@
+#Ignore everything except for compiled files.
+/build/*
+!/build/*.bin
+!/build/*.hex
+!/build/*.map
+!/build/*.elf
+!/build/*.lib
+!/build/*.a
+
+libs/STM32F4xx_HAL_Driver/*
+libs/CMSIS/*
+extra/BSP/*
+extra/CMSIS_5-5.7.0/*
+*.patch
