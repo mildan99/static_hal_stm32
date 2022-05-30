@@ -39,11 +39,8 @@ include_directories(
     "include"
     "libs/include"
     "libs/Device/ST/STM32F4xx/Include"
-    # "libs/FreeRTOS/include"
     "libs/superlib/include"
     "scripts"
-    "C:/local/libs/eigen-master"
-    "C:/Users/daniil/Documents/code/stm/workspace/lib/etl-17.7.0/include"
 
 )
 
@@ -55,7 +52,6 @@ file(GLOB_RECURSE
     "libs/src/*.cpp"
     "libs/superlib/src/*.c"
     "libs/superlib/src/*.cpp"
-    # "libs/FreeRTOS/*.c"
 )
 file(GLOB_RECURSE 
 	 MAIN_SOURCE
@@ -99,8 +95,6 @@ set(FREERTOS_PORT GCC_ARM_CM4F CACHE STRING "")
 add_subdirectory(libs)
 
 
-
-
 if (TYPE STREQUAL "STATIC_LIBRARY")
     set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
     #
@@ -110,7 +104,7 @@ if (TYPE STREQUAL "STATIC_LIBRARY")
 else()
     # 
     add_executable(build.elf ${MAIN_SOURCE})
-    target_link_libraries(build.elf PUBLIC ${LINKER_LIBS} cmsis-core freertos_kernel etl::etl)
+    target_link_libraries(build.elf PUBLIC ${LINKER_LIBS} cmsis-core freertos_kernel etl::etl Eigen3::Eigen)
   #  configure_file(build/compile_commands.json ../compile_commands.json COPYONLY)
 
     #message(${CMAKE_SOURCE_DIR})

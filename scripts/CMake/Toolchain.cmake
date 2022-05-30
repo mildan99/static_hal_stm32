@@ -47,7 +47,7 @@ if (CMAKE_BUILD_TYPE STREQUAL "Release")
 elseif (CMAKE_BUILD_TYPE STREQUAL "MinSizeRel")
     message("Setting up MinSizeRel flags.")
     set(OPTIMISATION	    "-Os")
-    set(ADDITIONAL_FLAGS    "-flto -s -Wl,--strip-all ")
+    set(ADDITIONAL_FLAGS    " -s -Wl,--strip-all ")
 
 elseif (CMAKE_BUILD_TYPE STREQUAL "Debug")
     message("Setting up Debug flags.")

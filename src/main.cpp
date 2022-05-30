@@ -14,8 +14,8 @@
 #include <tuple>
 
 
-//#include "Eigen/Dense"
-// Eigen::Matrix<float32_t, 2, 2> a{{2,1},{1,2}}, b{{1,0},{0,-1}},cc;
+#include "Eigen/Dense"
+Eigen::Matrix<float, 2, 2> a{{2,1},{1,2}}, b{{1,0},{0,-1}},cc;
 
 
 //#include "FreeRTOS.h"

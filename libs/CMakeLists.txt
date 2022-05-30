@@ -6,25 +6,30 @@ enable_language(C)
 
 
 
-if((NOT CMSIS_INCLUDE_DIR) OR (NOT EXISTS ${FOO_INCLUDE_DIR}))
-    # we couldn't find the header files for FOO or they don't exist
- 
-    # we have a submodule setup for foo, assume it is under external/foo
-    # now we need to clone this submodule
-    execute_process(COMMAND git submodule update --init -- ./CMSIS_5
+if((NOT EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/CMSIS_5))
+    execute_process(COMMAND git submodule update --init -- ${CMAKE_CURRENT_SOURCE_DIR}/CMSIS_5
                     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
 
-
-else()
-    # see above, setup target as well
 endif()
 
+if((NOT EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/FreeRTOS-Kernel))
+    execute_process(COMMAND git submodule update --init -- ${CMAKE_CURRENT_SOURCE_DIR}/FreeRTOS-Kernel
+                    WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
 
+endif()
 
+if((NOT EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/etl))
+    execute_process(COMMAND git submodule update --init -- ${CMAKE_CURRENT_SOURCE_DIR}/etl
+                    WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
+
+endif()
+if((NOT EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/eigen))
+    execute_process(COMMAND git submodule update --init -- ${CMAKE_CURRENT_SOURCE_DIR}/eigen
+                    WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
+endif()
 # set INCLUDE_DIR properly
 set(CMSIS_INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/CMSIS_5/CMSIS/Core/Include
     CACHE PATH "CMSIS include directory")
-message("Cmsis include: ${CMSIS_INCLUDE_DIR}")
 
 
 
@@ -36,4 +41,9 @@ add_subdirectory(FreeRTOS-Kernel)
 target_link_libraries(freertos_kernel cmsis-core)
 
 
+
 add_subdirectory(etl)
+
+
+add_subdirectory(eigen)
+target_compile_definitions(eigen INTERFACE EIGEN_NO_MALLOC EIGEN_NO_IO)
