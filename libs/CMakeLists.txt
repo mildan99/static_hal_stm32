@@ -34,15 +34,29 @@ set(CMSIS_INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/CMSIS_5/CMSIS/Core/Include
 
 
 add_library(cmsis-core INTERFACE)
-target_include_directories(cmsis-core INTERFACE  ${CMSIS_INCLUDE_DIR})
+target_include_directories(cmsis-core SYSTEM INTERFACE  ${CMSIS_INCLUDE_DIR})
 
-set(FREERTOS_CONFIG_FILE_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/include CACHE STRING "")
+set(FREERTOS_CONFIG_FILE_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/include CACHE STRING " ")
 add_subdirectory(FreeRTOS-Kernel)
 target_link_libraries(freertos_kernel cmsis-core)
 
+add_library(eigen INTERFACE)
+target_include_directories(eigen  SYSTEM INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}/eigen)
 
 
 add_subdirectory(etl)
 
-set(Eigen3_DIR ${CMAKE_CURRENT_SOURCE_DIR}/eigen/cmake/ CACHE STRING "")
+if((EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/sml))
+    add_subdirectory(sml)
+    add_library(libs::sml ALIAS sml)
+
+endif()
+if((EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/ctre))
+    add_subdirectory(ctre)
+    add_library(libs::ctre ALIAS ctre)
+endif()
+
+add_library(libs::eigen ALIAS eigen)
+add_library(libs::freertos ALIAS freertos_kernel)
+add_library(libs::cmsis-core ALIAS cmsis-core)
 

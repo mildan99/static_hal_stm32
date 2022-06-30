@@ -40,32 +40,25 @@ enum class fifo_size : uint8_t {
 enum class event : uint8_t { NONE = 0, TC = 1, HTC = 2, ERROR = 3 };
 
 struct conf {
-  void *pbuf;
-  void *m0buf;
-  void *m1buf;
-  uint16_t len;
-  data_size mem_size;
-  data_size per_size;
-  t_dir dir;
-  uint8_t channel;
-  bool mem_inc;
-  bool per_inc;
-  priority_t priority;
-  periph_align palign;
-  fifo_mode fmode;
-  fifo_size fsize;
-  burst mem_burst;
-  burst per_burst;
-  mode_t mode;
-  bool per_flow;
-  conf()
-      : pbuf(nullptr), m0buf(nullptr), m1buf(nullptr), len(0), mem_size(data_size::BYTE),
-        per_size(data_size::BYTE), dir(t_dir::M2P), mem_inc(false), per_inc(false),
-        priority(priority_t::LOW), palign(periph_align::ALIGN_BY_PSIZE), fmode(fifo_mode::DIRECT),
-        fsize(fifo_size::WORDx4), mem_burst(burst::NOBURST), per_burst(burst::NOBURST),
-        mode(mode_t::NORMAL), per_flow(false) {}
-};
-// constexpr auto s = sizeof(conf);
+  void *pbuf=nullptr;
+  void *m0buf=nullptr;
+  void *m1buf=nullptr;
+  uint16_t len=0ul;
+  data_size mem_size=data_size::BYTE;
+  data_size per_size=data_size::BYTE;
+  t_dir dir=t_dir::M2P;
+  uint8_t channel=0;
+  bool mem_inc=false;
+  bool per_inc=false;
+  priority_t priority=priority_t::LOW;
+  periph_align palign=periph_align::ALIGN_BY_PSIZE;
+  fifo_mode fmode=fifo_mode::DIRECT;
+  fifo_size fsize=fifo_size::WORDx4;
+  burst mem_burst=burst::NOBURST;
+  burst per_burst=burst::NOBURST;
+  mode_t mode=mode_t::NORMAL;
+  bool per_flow=false;
+  };
 
 } // namespace dma_config
 

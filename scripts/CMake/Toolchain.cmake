@@ -18,16 +18,20 @@ set(ARM_ASM			mthumb)
 
 
 
-# Compilers to use for ASM, C and C++
-message("Setting : Toolchain")
- set( COMPILER_BIN C:/Users/daniil/Desktop/embedded/gcc-arm-none-eabi-11.2/bin )
- set( COMPILER_EXE .exe)
- set(CMAKE_C_COMPILER		${COMPILER_BIN}/arm-none-eabi-gcc${COMPILER_EXE}     CACHE INTERNAL "")
- set(CMAKE_CXX_COMPILER		${COMPILER_BIN}/arm-none-eabi-g++${COMPILER_EXE}     CACHE INTERNAL "")
- set(CMAKE_ASM_COMPILER		${COMPILER_BIN}/arm-none-eabi-g++${COMPILER_EXE}     CACHE INTERNAL "")
- set(CMAKE_OBJCOPY			${COMPILER_BIN}/arm-none-eabi-objcopy${COMPILER_EXE} CACHE INTERNAL "")
-set(CMAKE_OBJDUMP			${COMPILER_BIN}/arm-none-eabi-objdump${COMPILER_EXE} CACHE INTERNAL "")
-set(CMAKE_SIZE			    ${COMPILER_BIN}/arm-none-eabi-size${COMPILER_EXE}    CACHE INTERNAL "")
+
+set( COMPILER_PREFIX "")
+set( COMPILER_EXE "")
+set(CMAKE_C_COMPILER		${COMPILER_PREFIX}arm-none-eabi-gcc${COMPILER_EXE}     CACHE INTERNAL "")
+set(CMAKE_CXX_COMPILER		${COMPILER_PREFIX}arm-none-eabi-g++${COMPILER_EXE}     CACHE INTERNAL "")
+set(CMAKE_ASM_COMPILER		${COMPILER_PREFIX}arm-none-eabi-g++${COMPILER_EXE}     CACHE INTERNAL "")
+set(CMAKE_OBJCOPY			${COMPILER_PREFIX}arm-none-eabi-objcopy${COMPILER_EXE} CACHE INTERNAL "")
+set(CMAKE_OBJDUMP			${COMPILER_PREFIX}arm-none-eabi-objdump${COMPILER_EXE} CACHE INTERNAL "")
+set(CMAKE_SIZE			    ${COMPILER_PREFIX}arm-none-eabi-size${COMPILER_EXE}    CACHE INTERNAL "")
+set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
+set(CMAKE_EXECUTABLE_SUFFIX ".elf")
+set(CMAKE_EXECUTABLE_SUFFIX_C ".elf")
+set(CMAKE_EXECUTABLE_SUFFIX_CXX ".elf")
+set(CMAKE_EXECUTABLE_SUFFIX_ASM ".elf")
 
 
 # Initialse these options to blank (thats what happens if an unknown build type is selected)
@@ -42,12 +46,14 @@ message("Build mode : " ${CMAKE_BUILD_TYPE})
 if (CMAKE_BUILD_TYPE STREQUAL "Release")
     message("Setting up Release flags.")
     set(OPTIMISATION	    "-O2")
-    set(ADDITIONAL_FLAGS    "-flto -ffat-lto-objects -s  -Wl,--strip-all ")
+    set(CMAKE_INTERPROCEDURAL_OPTIMIZATION ON)
+    set(ADDITIONAL_FLAGS    "-s  -Wl,--strip-all ")
 
 elseif (CMAKE_BUILD_TYPE STREQUAL "MinSizeRel")
     message("Setting up MinSizeRel flags.")
     set(OPTIMISATION	    "-Os")
-    set(ADDITIONAL_FLAGS    "-flto -fuse-linker-plugin -ffat-lto-objects -s -Wl,--strip-all ")
+    set(CMAKE_INTERPROCEDURAL_OPTIMIZATION ON)
+    set(ADDITIONAL_FLAGS    "-s -Wl,--strip-all ")
 
 elseif (CMAKE_BUILD_TYPE STREQUAL "Debug")
     message("Setting up Debug flags.")
@@ -69,21 +75,20 @@ else()
 endif()
 
 #
-set(COMMON_FLAGS "-mcpu=${CORE} -mfpu=${FPU} -mfloat-abi=hard -mthumb ${OPTIMISATION} ${DEBUG} ${ADDITIONAL_FLAGS} -pedantic -Wall -Wextra -Wfloat-equal -Wshadow  -Wduplicated-branches -Wlogical-op  -fmessage-length=${MSG_LEN} -ffunction-sections -fdata-sections")
+set(COMMON_FLAGS "-mcpu=${CORE} -mfpu=${FPU} -mfloat-abi=hard -mthumb ${OPTIMISATION} ${DEBUG} ${ADDITIONAL_FLAGS} -ffreestanding -pedantic -Wall -Wextra -Wfloat-equal -Wshadow  -Wduplicated-branches -Wlogical-op  -fmessage-length=${MSG_LEN} -ffunction-sections -fdata-sections")
 set(CPP_FLAGS " -Wnon-virtual-dtor -Woverloaded-virtual -Wsign-promo -Wctor-dtor-privacy -fno-rtti -fno-exceptions -fno-use-cxa-atexit -fno-use-cxa-get-exception-ptr -fno-threadsafe-statics -ftemplate-backtrace-limit=1")
 
 # 
-set(CMAKE_ASM_FLAGS	        "${COMMON_FLAGS} -MP -MD -x assembler-with-cpp" CACHE INTERNAL "asm compiler flags")
-set(CMAKE_ASM_FLAGS	        "${COMMON_FLAGS}" CACHE INTERNAL "asm compiler flags")
-set(CMAKE_C_FLAGS           "${COMMON_FLAGS}" CACHE INTERNAL "c compiler flags")
-set(CMAKE_CXX_FLAGS	        "${COMMON_FLAGS} ${CPP_FLAGS}" CACHE INTERNAL "cpp compiler flags")
+set(CMAKE_ASM_FLAGS_INIT	        "${COMMON_FLAGS} -MP -MD -x assembler-with-cpp" CACHE INTERNAL "asm compiler flags")
+set(CMAKE_C_FLAGS_INIT         "${COMMON_FLAGS}" CACHE INTERNAL "c compiler flags")
+set(CMAKE_CXX_FLAGS_INIT	        "${COMMON_FLAGS} ${CPP_FLAGS}" CACHE INTERNAL "cpp compiler flags")
 set(CMAKE_CXX_FLAGS_DEBUG "")
 set(CMAKE_CXX_FLAGS_RELEASE "")
 set(CMAKE_C_FLAGS_DEBUG "")
 set(CMAKE_C_FLAGS_RELEASE "")
 
 # You may have a linker issue. If that occurs change nano.specs to nosys.specs
-set(CMAKE_EXE_LINKER_FLAGS  "${COMMON_FLAGS} -Wl,-Map,\"build.map\",--wrap=malloc,--wrap=free,--gc-sections --specs=nano.specs -nostartfiles  " CACHE INTERNAL "exe link flags")
+set(CMAKE_EXE_LINKER_FLAGS  "${COMMON_FLAGS} -Wl,--demangle=auto,--cref,-Map=output.map,--wrap=malloc,--wrap=free,--gc-sections,--print-memory-usage,--print-output-format --specs=nano.specs -nostartfiles  " CACHE INTERNAL "exe link flags")
 
 
 

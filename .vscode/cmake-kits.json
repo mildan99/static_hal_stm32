@@ -1,6 +1,11 @@
 [
     {
         "name": "arm-none-eabi",
-        "toolchainFile": "scripts/CMake/Toolchain.cmake"
+        "toolchainFile": "scripts/CMake/Toolchain.cmake",
+        "cmakeSettings": {
+            "COMPILER_PREFIX":"C:/Users/daniil/Desktop/embedded/gcc-arm-none-eabi-11.2/bin/",
+            "COMPILER_EXE":".exe",
+            "ARTIFACT":"build"
+        }
     }
 ]

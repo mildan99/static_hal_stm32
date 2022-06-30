@@ -7,31 +7,33 @@
         {
             "type": "cortex-debug",
             "request": "launch",
-            "servertype": "jlink",
+            "servertype": "pyocd",
             "cwd": "${workspaceRoot}",
             "executable": "${workspaceRoot}/build/build.elf",
             "svdFile": "${workspaceRoot}/STM32F411.svd",
             "device": "STM32F411CE",
-            "name": "Debug (JLink)",
-            "interface": "swd",
-            "rtos": "FreeRTOS",
-            "demangle": true,
-            "runToMain": true
+            "targetId": "STM32F411CE",
+            "name": "Debug (PyOCD)",
+            "interface": "swd"
 
         },
         {
             "type": "cortex-debug",
-            "request": "attach",
-            "servertype": "jlink",
+            "request": "launch",
+            "servertype": "openocd",
             "cwd": "${workspaceRoot}",
             "executable": "${workspaceRoot}/build/build.elf",
             "svdFile": "${workspaceRoot}/STM32F411.svd",
             "device": "STM32F411CE",
-            "name": "Attach (JLink)",
+            "breakAfterReset": true,
+            "name": "OpenOCD",
             "interface": "swd",
-            "rtos": "FreeRTOS",
-            "demangle": true
+            "configFiles": [
+                "interface/stlink.cfg",
+                "target/stm32f4x.cfg"
+            ]
 
         }
+
     ]
 }

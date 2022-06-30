@@ -13,7 +13,6 @@ extern const uint32_t vectors_len;
 typedef void (*vector_func_t)();
 
 // I dont know why but this makes smaller code even with global Os
-inline void set_vector(IRQn_Type IRQn, vector_func_t handler) __attribute((optimize("Os")));
 inline void set_vector(IRQn_Type IRQn, vector_func_t handler) {
   uint32_t *vvectors = (uint32_t *)SCB->VTOR;
   vvectors[(int32_t)IRQn + NVIC_USER_IRQ_OFFSET] = (uint32_t)handler;

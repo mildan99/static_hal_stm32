@@ -1,14 +1,54 @@
 #Ignore everything except for compiled files.
 /build/*
-!/build/*.bin
-!/build/*.hex
-!/build/*.map
-!/build/*.elf
-!/build/*.lib
-!/build/*.a
+# !/build/*.bin
+# !/build/*.hex
+# !/build/*.map
+# !/build/*.elf
+# !/build/*.lib
+# !/build/*.a
 
 libs/STM32F4xx_HAL_Driver/*
 libs/CMSIS/*
-extra/BSP/*
+libs/sml/*
+libs/sml
+libs/ctre/*
+libs/ctre
+extra
+extra/*
 extra/CMSIS_5-5.7.0/*
 *.patch
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.bin
+*.elf

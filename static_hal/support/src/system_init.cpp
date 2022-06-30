@@ -150,7 +150,6 @@ extern "C" void system_config() {
   // SysTick->CTRL |= (SysTick_CTRL_ENABLE_Msk);
   
   // std::set_new_handler(Default_Handler);
-
   mcu::set_vector(SVCall_IRQn, SVC_Handler);
   mcu::set_vector(SysTick_IRQn , SysTick_Handler);
   mcu::set_vector(PendSV_IRQn , PendSV_Handler);
