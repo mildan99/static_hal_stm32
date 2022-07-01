@@ -14,13 +14,9 @@ endif()
 
 # Add your project #defines here
 # These are included as #defines in the project
-add_compile_definitions( ${TARGET}  
+add_compile_definitions( ${TARGET_MCU}  
                         STM32F411xE
-                        HSE_VALUE=25000000
-                        EIGEN_DONT_VECTORIZE
-                        EIGEN_NO_IO
-                        EIGEN_NO_DEBUG  
-                        EIGEN_NO_MALLOC  )
+                        HSE_VALUE=25000000)
 
 #
 # TODO: Add any additional include directories here
@@ -78,7 +74,7 @@ add_subdirectory(libs)
 
 
  
-add_library(static_hal ${LIBRARY_SOURCE})
+add_library(static_hal STATIC ${LIBRARY_SOURCE})
 target_include_directories(static_hal PUBLIC ${PROJECT_INCLUDE_DIRS})
 target_link_libraries(static_hal PUBLIC ${LINKER_LIBS} libs::cmsis-core libs::freertos etl::etl libs::eigen libs::sml libs::ctre)
 target_compile_features(static_hal PUBLIC cxx_std_20)

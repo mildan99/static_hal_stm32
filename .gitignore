@@ -13,9 +13,8 @@ libs/sml/*
 libs/sml
 libs/ctre/*
 libs/ctre
-extra
-extra/*
-extra/CMSIS_5-5.7.0/*
+/extra
+/extra/*
 *.patch
 
 # Prerequisites
@@ -52,3 +51,5 @@ extra/CMSIS_5-5.7.0/*
 *.app
 *.bin
 *.elf
+
+build/build.elf

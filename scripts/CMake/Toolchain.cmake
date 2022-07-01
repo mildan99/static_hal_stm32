@@ -10,7 +10,7 @@ set(CMAKE_SYSTEM_PROCESSOR	arm-eabi)
 
 
 # Name your target information here (Should be the same name as detected by your HAL library #defines)
-set(TARGET          STM32F411xE)
+set(TARGET_MCU          STM32F411xE)
 set(ARCH			armv7e-m+fp)
 set(FPU			    fpv4-sp-d16)
 set(CORE			cortex-m4)
